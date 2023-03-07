@@ -10,7 +10,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:ital@1&display=swap" rel="stylesheet">
 </head>
 
-<body style="background-color: lightgray;">
+<body style="background-color: lightpink;">
     <header>
         <!--NavBar Section-->
         <div class="navbar">
